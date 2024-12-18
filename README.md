@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋✨
 
-<!--
-**dariasamtaro/dariasamtaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daria
 
-Here are some ideas to get you started:
+* From Ukraine 
+* Living in Canada
+* 📫 How to reach me: balabaievaa@gmail.com
+## 💬 Let's Collaborate!
+Whether you're working on an open-source project or just want to talk tech, I’m always up for a good discussion. Let’s create something amazing together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to explore, fork, or star my projects! Let’s code, learn, and grow together! 🚀
